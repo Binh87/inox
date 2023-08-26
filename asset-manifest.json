@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/inox/static/css/main.0228dd8a.css",
+    "main.js": "/inox/static/js/main.9be6740d.js",
+    "static/js/787.4a5765cf.chunk.js": "/inox/static/js/787.4a5765cf.chunk.js",
+    "static/media/logo.jpeg": "/inox/static/media/logo.81fa10d269487cf4a0a3.jpeg",
+    "index.html": "/inox/index.html",
+    "main.0228dd8a.css.map": "/inox/static/css/main.0228dd8a.css.map",
+    "main.9be6740d.js.map": "/inox/static/js/main.9be6740d.js.map",
+    "787.4a5765cf.chunk.js.map": "/inox/static/js/787.4a5765cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0228dd8a.css",
+    "static/js/main.9be6740d.js"
+  ]
+}
